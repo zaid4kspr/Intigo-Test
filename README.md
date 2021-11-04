@@ -1,5 +1,4 @@
-# Intigo-Test
-# website-home-assignment
+# Intigo-WarmUp-Test
 
 The goal of the developer exercise is to take a quick dive into Angular and NodeJs to build a website which could show us weather.
 ---
