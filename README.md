@@ -13,7 +13,7 @@ The goal of the developer exercise is to take a quick dive into Angular and Node
 4. Reponsive for website, ipad and phone.
 
 
-## Backend (Choose your favorite language)
+## Backend (Node Js)
 1. connect to DB (NoSQL Mongo DB)
 2. deal with signin and signup.
 3. deal with user's watch list (CRUD)
